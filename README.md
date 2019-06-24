@@ -1,0 +1,2 @@
+# scripts
+For osrs scripts
